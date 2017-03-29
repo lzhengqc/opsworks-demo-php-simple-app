@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h2>This is probably not what you were expecting.</h2>
+                <h2>This is probably not what you were expecting. Version2</h2>
                 <p>To enjoy the full features from the <code>version2</code> branch of the <code>opsworks-demo-php-simple-app</code> sample, you need to go to your OpsWorks stack and set your app's <strong>Document root</strong> to <strong>web</strong> and redeploy the app. Hurry back to see the real app at work!</p>
                 
                 <h3>Need more help?</h3>
